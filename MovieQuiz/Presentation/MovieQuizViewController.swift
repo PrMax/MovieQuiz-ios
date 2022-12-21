@@ -176,9 +176,6 @@ final class MovieQuizViewController: UIViewController {
         }
     }
     
-    
-    
-    
     //Функция котороя определяет, показывать следующий вопрос или результат квиза
     private func showNextQuestionOrResults() {
         
